@@ -1,1 +1,2 @@
-print(:successfully done")
+print("successfully done")
+print("done")
